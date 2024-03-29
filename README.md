@@ -1,5 +1,4 @@
-# Drosera Species Climate Impact Research
-
+# Drosera Species Climate
 This repository contains the occurrence data and source code used in our research on the impacts of climate change on the distribution of Drosera species. Our study aims to understand how changing climatic conditions affect these unique carnivorous plants and to assess potential risks to their future distribution.
 
 ## Contents
